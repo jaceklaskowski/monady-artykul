@@ -1,0 +1,1 @@
+Wprowadzenie do monad w Clojure...okiem programisty Javy
